@@ -12,4 +12,4 @@ This paper is about the number ******. The number 2 is left for future work.
 
 [Download paper here](http://liangdaojun.github.io/files/paper4.pdf)
 
-Recommended citation: Your Name, You. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 111111, You. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
