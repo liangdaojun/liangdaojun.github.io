@@ -5,7 +5,7 @@ permalink: /publication/2018-09-30-p3-Under-Mixup
 # excerpt: '---.'
 #date: 2018-09-30
 venue: 'Journal 3'
-#paperurl: 'http://liangdaojun.github.io/files/p3-Under-Mixup.pdf'
+paperurl: 'http://liangdaojun.github.io/files/p3-Under-Mixup.pdf'
 citation: 'Liang, Daojun, et al. "Understanding mixup training methods." IEEE Access 6 (2018): 58774-58783.'
 
 ---
