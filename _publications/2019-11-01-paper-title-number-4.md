@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Do you think so? 4"
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number-4
 excerpt: '----->>>>>>.'
