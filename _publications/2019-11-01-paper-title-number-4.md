@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'http://liangdaojun.github.io/files/paper4.pdf'
 citation: 'Your Name, You. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number ******. The number 2 is left for future work.
 
 [Download paper here](http://liangdaojun.github.io/files/paper4.pdf)
 
