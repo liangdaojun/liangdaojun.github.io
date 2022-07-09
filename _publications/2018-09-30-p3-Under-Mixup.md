@@ -1,5 +1,5 @@
 ---
-title: "2. WPNets and PWNets: from the perspective of channel fusion"
+title: "3. Understanding mixup training methods"
 collection: publications
 permalink: /publication/2018-09-30-p3-Under-Mixup
 # excerpt: '---.'
